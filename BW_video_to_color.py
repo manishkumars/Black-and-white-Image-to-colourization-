@@ -3,7 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
-
+import imutils
 #input video
 
 VIDEO = "BW_Video.mp4"
